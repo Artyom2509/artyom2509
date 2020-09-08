@@ -1,0 +1,29 @@
+a:link {
+   font-family: Comic Sans MS;
+   font-size: 9pt;
+   color: #000000; }
+a:visited {
+   font-family: Comic Sans MS;
+   font-size: 9pt;
+   color: #000000; }
+a:hover {
+   font-family: Lucida Sans Unicode;
+   font-size: 10pt;
+   color: #105dff; }
+p {
+   font-family: Sylfaen;
+   font-size: 13pt;
+   text-align: justify; }
+.titleSet {
+  font-family: Comic Sans MS;
+  color: #333333;
+  font-size: 13pt;
+  font-weight: bold; }
+.minSet {
+  font-family: Georgia;
+  color: #333333;
+  font-size: 11pt;
+  font-weight: bold; }
+td {
+  font-family: Comic Sans MS;
+  font-size: 10pt; }
