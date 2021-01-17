@@ -1,5 +1,5 @@
 # Vanilla JavaScript
-#### [Excel-table](https://artyom2509.github.io/my-excel/)
+#### [Excel-Table](https://artyom2509.github.io/my-excel/)
 
 # React
 #### [StarDB](https://artyom2509.github.io/star-db/)
