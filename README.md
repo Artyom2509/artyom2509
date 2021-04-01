@@ -8,4 +8,4 @@
 #### Name: [React-Mini-Chat](https://artyom2509.github.io/react-mini-chat/) - On Github: [Open](https://github.com/Artyom2509/react-mini-chat)
 #### Name: [MERN E-Commerce](https://app-ecommerce-mern.herokuapp.com/) - On Github: [Open](https://github.com/Artyom2509/mern-ecommerce)
 #### Name: [J-Book TypeScript](https://artyom2509.github.io/j-book/) - On Github: [Open](https://github.com/Artyom2509/j-book) (In developing)
-
+#### Name: [TinyHouse TypeScript](https://github.com/Artyom2509/tiny-house) - On Github: [Open](https://github.com/Artyom2509/tiny-house) (In developing)
